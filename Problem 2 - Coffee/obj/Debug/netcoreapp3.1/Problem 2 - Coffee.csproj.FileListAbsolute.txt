@@ -1,0 +1,14 @@
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\Problem 2 - Coffee\bin\Debug\netcoreapp3.1\Problem 2 - Coffee.exe
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\Problem 2 - Coffee\bin\Debug\netcoreapp3.1\Problem 2 - Coffee.deps.json
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\Problem 2 - Coffee\bin\Debug\netcoreapp3.1\Problem 2 - Coffee.runtimeconfig.json
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\Problem 2 - Coffee\bin\Debug\netcoreapp3.1\Problem 2 - Coffee.runtimeconfig.dev.json
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\Problem 2 - Coffee\bin\Debug\netcoreapp3.1\Problem 2 - Coffee.dll
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\Problem 2 - Coffee\bin\Debug\netcoreapp3.1\Problem 2 - Coffee.pdb
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\Problem 2 - Coffee\obj\Debug\netcoreapp3.1\Problem 2 - Coffee.csproj.AssemblyReference.cache
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\Problem 2 - Coffee\obj\Debug\netcoreapp3.1\Problem 2 - Coffee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\Problem 2 - Coffee\obj\Debug\netcoreapp3.1\Problem 2 - Coffee.AssemblyInfoInputs.cache
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\Problem 2 - Coffee\obj\Debug\netcoreapp3.1\Problem 2 - Coffee.AssemblyInfo.cs
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\Problem 2 - Coffee\obj\Debug\netcoreapp3.1\Problem 2 - Coffee.csproj.CoreCompileInputs.cache
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\Problem 2 - Coffee\obj\Debug\netcoreapp3.1\Problem 2 - Coffee.dll
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\Problem 2 - Coffee\obj\Debug\netcoreapp3.1\Problem 2 - Coffee.pdb
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\Problem 2 - Coffee\obj\Debug\netcoreapp3.1\Problem 2 - Coffee.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\03. Phone Shop\bin\Debug\netcoreapp3.1\03. Phone Shop.exe
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\03. Phone Shop\bin\Debug\netcoreapp3.1\03. Phone Shop.deps.json
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\03. Phone Shop\bin\Debug\netcoreapp3.1\03. Phone Shop.runtimeconfig.json
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\03. Phone Shop\bin\Debug\netcoreapp3.1\03. Phone Shop.runtimeconfig.dev.json
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\03. Phone Shop\bin\Debug\netcoreapp3.1\03. Phone Shop.dll
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\03. Phone Shop\bin\Debug\netcoreapp3.1\03. Phone Shop.pdb
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.csproj.AssemblyReference.cache
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.AssemblyInfoInputs.cache
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.AssemblyInfo.cs
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.csproj.CoreCompileInputs.cache
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.dll
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.pdb
+C:\Users\Bako-PC\source\repos\Exam - Problem 1\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.genruntimeconfig.cache
